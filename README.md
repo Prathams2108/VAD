@@ -21,6 +21,7 @@ Voice Activity Detection is a project that detects the speech timings in an uplo
 * Python installed on the system
 * pip (Python Package Manager)installed on the system.
 * A code Editor of your choice
+### Setup and Run:
 * Create a new directory for the backend operations in the same main directory
 * Install the required dependencies using the command 'pip install librosa'
 * Add the route and audio file handler code to the app.py code
